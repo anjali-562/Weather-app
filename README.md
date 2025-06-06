@@ -18,6 +18,9 @@ A simple weather app that displays current weather and 5-day forecast using Open
 
 #Screenshots#
 ![image](https://github.com/user-attachments/assets/9ceab845-c079-415d-a9f9-27d7f9c1c09d)
+![image](https://github.com/user-attachments/assets/ecdd1c0b-e825-42d3-868f-0214484788b0)
+![image](https://github.com/user-attachments/assets/fb37e356-c542-4204-810d-74818210ceee)
+
 
 
 
