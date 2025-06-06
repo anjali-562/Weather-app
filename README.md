@@ -16,6 +16,8 @@ A simple weather app that displays current weather and 5-day forecast using Open
 1. Clone this repo
 2. Open `index.html` in Live Server (VS Code)
 
+#Screenshots#
+![image](https://github.com/user-attachments/assets/9ceab845-c079-415d-a9f9-27d7f9c1c09d)
 
 
 
